@@ -14,6 +14,8 @@ Project: The Project folder contains a complete implementation of the system as 
 
 Project API: The Project API folder contains an implementation of only the endpoints of the website system. The Postman tool is used to test these endpoints against the database. The link to the Postmand Documentation is here: https://documenter.getpostman.com/view/18775667/UVRAJ7Ry.
 
+The main part of this project was properly creating a SQL database using techniques such as extended ER diagrams and relational models. The database creation was the intergral part of the project and the website and endpoints revolved around it. The website was created after initally designing it using different types of diagrams such as HIPO and DFD diagrams. Lastly, the API endpoints used basic CRUD operations to have properly functioning endpoints in PHP. 
+
 =========================== Project ===========================
 
 Copy the project folder in www of AppServ (i.e. C:\AppServ\www\Project).
